@@ -1,0 +1,70 @@
+/*Styling individual pages*/
+body{
+	margin: 0px;
+}
+/*Styling for first page*/
+.page1{
+	/*Setting page height*/
+	min-height: 755px;
+
+	/*Background image used*/
+	background-image: url("images/image1.jpg");
+
+	/*Adding parallax effect*/
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+
+}
+
+/*Styling for first page*/
+.page2{
+	/*Setting page height*/
+	height: 755px;
+
+
+	/*Background image used*/
+	background-image: url("images/image2.jpg");
+
+	/*Adding parallax effect*/
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+
+}
+
+/*Styling for first page*/
+.page3{
+	/*Setting page height*/
+	height: 755px;
+
+
+	/*Background image used*/
+	background-image: url("images/image3.jpg");
+
+	/*Adding parallax effect*/
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+
+}
+
+/*Styling for first page*/
+.page4{
+	/*Setting page height*/
+	height: 755px;
+
+
+	/*Background image used*/
+	background-image: url("images/image4.jpg");
+
+	/*Adding parallax effect*/
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+
+}
